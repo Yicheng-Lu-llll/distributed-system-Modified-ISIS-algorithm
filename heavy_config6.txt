@@ -1,0 +1,8 @@
+7
+node1 localhost 1111
+node2 localhost 2222
+node3 localhost 3333
+node4 localhost 4444
+node5 localhost 5555
+node7 localhost 7777
+node8 localhost 8888
